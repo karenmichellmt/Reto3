@@ -1,0 +1,32 @@
+.scroll-area{
+  width:100%;
+  height:calc(100% - 200px);
+  margin-top:100px;
+  background-color:rgb(255, 255, 255);
+  float:left;
+  overflow-y:scroll;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: url(/fondo2.png) 
+}
+.p4 {
+  font-family: "Fantasy",	Copperplate;
+    font-size: 40px;
+    color: #ffffff;
+    
+
+}
+.p2 {
+  font-family: "Papyrus", Fantasy;
+  font-size: 40px;
+  color: rgba(255, 255, 255, 0.651);
+
+}
+.p1 {
+  font-family: "Papyrus", Fantasy;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.651);
+
+}
